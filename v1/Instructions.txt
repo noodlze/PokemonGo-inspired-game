@@ -1,0 +1,16 @@
+Note: if there are error messages in relation to missing python modules, please install them
+
+While in the project folder, open up a terminal and type the following to run the authentication server and battle server: 
+./server 
+
+While in player1/player2/... folder, open up a terminal and type the following to run the validation client:
+python validationC.py 
+
+type the following to run to run the battle client:
+python batC.py
+
+You can create more players by duplicating one of the player folders and changing the name to i.e. player3. Delete the access_token.txt file if present.
+
+while in the main project folder, open up two terminals and type one command in each terminal to run the catch Pokemon module:
+python catC.py
+python catS.py

@@ -1,0 +1,46 @@
+{
+    "alive": {
+        "3": {
+            "_attk": 684,
+            "_cur_exp": 1802,
+            "_cur_lvl": 5,
+            "_def": 684,
+            "_ev": 0.8,
+            "_hp": 947,
+            "_id": 79,
+            "_max_hp": 947,
+            "_req_exp": 2016,
+            "_sp_attk": 422,
+            "_sp_def": 422
+        },
+        "4": {
+            "_attk": 276,
+            "_cur_exp": 818,
+            "_cur_lvl": 27,
+            "_def": 334,
+            "_ev": 0.7,
+            "_hp": 160,
+            "_id": 75,
+            "_max_hp": 160,
+            "_req_exp": 1072,
+            "_sp_attk": 131,
+            "_sp_def": 131
+        },
+        "5": {
+            "_attk": 328,
+            "_cur_exp": 735,
+            "_cur_lvl": 4,
+            "_def": 206,
+            "_ev": 0.8,
+            "_hp": 177,
+            "_id": 19,
+            "_max_hp": 177,
+            "_req_exp": 816,
+            "_sp_attk": 146,
+            "_sp_def": 206
+        }
+    },
+    "berries": 6,
+    "fainted": {},
+    "pokeballs": 0
+}

@@ -1,0 +1,20 @@
+{
+    "alive": {
+        "1": {
+            "_attk": 80,
+            "_cur_exp": 74,
+            "_cur_lvl": 1,
+            "_def": 35,
+            "_ev": 0.6,
+            "_hp": 40,
+            "_id": 55,
+            "_max_hp": 40,
+            "_req_exp": 148,
+            "_sp_attk": 35,
+            "_sp_def": 45
+        }
+    },
+    "berries": 1,
+    "fainted": {},
+    "pokeballs": 1
+}

@@ -1,0 +1,3679 @@
+{
+    "1": {
+        "base_atk": 49,
+        "base_def": 49,
+        "base_experience": 64,
+        "base_hp": 45,
+        "base_special_atk": 65,
+        "base_special_def": 65,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 2,
+        "evolve_level": 16,
+        "name": "bulbasaur",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "2": {
+        "base_atk": 62,
+        "base_def": 63,
+        "base_experience": 142,
+        "base_hp": 60,
+        "base_special_atk": 80,
+        "base_special_def": 80,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 3,
+        "evolve_level": 36,
+        "name": "ivysaur",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "3": {
+        "base_atk": 82,
+        "base_def": 83,
+        "base_experience": 236,
+        "base_hp": 80,
+        "base_special_atk": 100,
+        "base_special_def": 100,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "venusaur",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "4": {
+        "base_atk": 52,
+        "base_def": 43,
+        "base_experience": 62,
+        "base_hp": 39,
+        "base_special_atk": 60,
+        "base_special_def": 50,
+        "base_speed": 65,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 5,
+        "evolve_level": 16,
+        "name": "charmander",
+        "type": [
+            "fire"
+        ]
+    },
+    "5": {
+        "base_atk": 64,
+        "base_def": 58,
+        "base_experience": 142,
+        "base_hp": 58,
+        "base_special_atk": 80,
+        "base_special_def": 65,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 6,
+        "evolve_level": 36,
+        "name": "charmeleon",
+        "type": [
+            "fire"
+        ]
+    },
+    "6": {
+        "base_atk": 84,
+        "base_def": 78,
+        "base_experience": 240,
+        "base_hp": 78,
+        "base_special_atk": 109,
+        "base_special_def": 85,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "charizard",
+        "type": [
+            "fire"
+        ]
+    },
+    "7": {
+        "base_atk": 48,
+        "base_def": 65,
+        "base_experience": 63,
+        "base_hp": 44,
+        "base_special_atk": 50,
+        "base_special_def": 64,
+        "base_speed": 43,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 8,
+        "evolve_level": 16,
+        "name": "squirtle",
+        "type": [
+            "water"
+        ]
+    },
+    "8": {
+        "base_atk": 63,
+        "base_def": 80,
+        "base_experience": 142,
+        "base_hp": 59,
+        "base_special_atk": 65,
+        "base_special_def": 80,
+        "base_speed": 58,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 9,
+        "evolve_level": 36,
+        "name": "wartortle",
+        "type": [
+            "water"
+        ]
+    },
+    "9": {
+        "base_atk": 83,
+        "base_def": 100,
+        "base_experience": 239,
+        "base_hp": 79,
+        "base_special_atk": 85,
+        "base_special_def": 105,
+        "base_speed": 78,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "blastoise",
+        "type": [
+            "water"
+        ]
+    },
+    "10": {
+        "base_atk": 30,
+        "base_def": 35,
+        "base_experience": 39,
+        "base_hp": 45,
+        "base_special_atk": 20,
+        "base_special_def": 20,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.5,
+            "ground": 0.5,
+            "rock": 2
+        },
+        "evolve_id": 11,
+        "evolve_level": 7,
+        "name": "caterpie",
+        "type": [
+            "bug"
+        ]
+    },
+    "11": {
+        "base_atk": 20,
+        "base_def": 55,
+        "base_experience": 72,
+        "base_hp": 50,
+        "base_special_atk": 25,
+        "base_special_def": 25,
+        "base_speed": 30,
+        "dmg_when_atked": {
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.5,
+            "ground": 0.5,
+            "rock": 2
+        },
+        "evolve_id": 12,
+        "evolve_level": 10,
+        "name": "metapod",
+        "type": [
+            "bug"
+        ]
+    },
+    "12": {
+        "base_atk": 45,
+        "base_def": 50,
+        "base_experience": 178,
+        "base_hp": 60,
+        "base_special_atk": 90,
+        "base_special_def": 80,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.5,
+            "ground": 0.5,
+            "ice": 2,
+            "rock": 4
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "butterfree",
+        "type": [
+            "bug",
+            "flying"
+        ]
+    },
+    "13": {
+        "base_atk": 35,
+        "base_def": 30,
+        "base_experience": 39,
+        "base_hp": 40,
+        "base_special_atk": 20,
+        "base_special_def": 20,
+        "base_speed": 50,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 14,
+        "evolve_level": 7,
+        "name": "weedle",
+        "type": [
+            "bug",
+            "poison"
+        ]
+    },
+    "14": {
+        "base_atk": 25,
+        "base_def": 50,
+        "base_experience": 72,
+        "base_hp": 45,
+        "base_special_atk": 25,
+        "base_special_def": 25,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 15,
+        "evolve_level": 10,
+        "name": "kakuna",
+        "type": [
+            "bug",
+            "poison"
+        ]
+    },
+    "15": {
+        "base_atk": 90,
+        "base_def": 40,
+        "base_experience": 178,
+        "base_hp": 65,
+        "base_special_atk": 45,
+        "base_special_def": 80,
+        "base_speed": 75,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "beedrill",
+        "type": [
+            "bug",
+            "poison"
+        ]
+    },
+    "16": {
+        "base_atk": 45,
+        "base_def": 40,
+        "base_experience": 50,
+        "base_hp": 40,
+        "base_special_atk": 35,
+        "base_special_def": 35,
+        "base_speed": 56,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 17,
+        "evolve_level": 18,
+        "name": "pidgey",
+        "type": [
+            "normal",
+            "flying"
+        ]
+    },
+    "17": {
+        "base_atk": 60,
+        "base_def": 55,
+        "base_experience": 122,
+        "base_hp": 63,
+        "base_special_atk": 50,
+        "base_special_def": 50,
+        "base_speed": 71,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 18,
+        "evolve_level": 36,
+        "name": "pidgeotto",
+        "type": [
+            "normal",
+            "flying"
+        ]
+    },
+    "18": {
+        "base_atk": 80,
+        "base_def": 75,
+        "base_experience": 216,
+        "base_hp": 83,
+        "base_special_atk": 70,
+        "base_special_def": 70,
+        "base_speed": 101,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "pidgeot",
+        "type": [
+            "normal",
+            "flying"
+        ]
+    },
+    "19": {
+        "base_atk": 56,
+        "base_def": 35,
+        "base_experience": 51,
+        "base_hp": 30,
+        "base_special_atk": 25,
+        "base_special_def": 35,
+        "base_speed": 72,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 20,
+        "evolve_level": 20,
+        "name": "rattata",
+        "type": [
+            "normal"
+        ]
+    },
+    "20": {
+        "base_atk": 81,
+        "base_def": 60,
+        "base_experience": 145,
+        "base_hp": 55,
+        "base_special_atk": 50,
+        "base_special_def": 70,
+        "base_speed": 97,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "raticate",
+        "type": [
+            "normal"
+        ]
+    },
+    "21": {
+        "base_atk": 60,
+        "base_def": 30,
+        "base_experience": 52,
+        "base_hp": 40,
+        "base_special_atk": 31,
+        "base_special_def": 31,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 22,
+        "evolve_level": 20,
+        "name": "spearow",
+        "type": [
+            "normal",
+            "flying"
+        ]
+    },
+    "22": {
+        "base_atk": 90,
+        "base_def": 65,
+        "base_experience": 155,
+        "base_hp": 65,
+        "base_special_atk": 61,
+        "base_special_def": 61,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "fearow",
+        "type": [
+            "normal",
+            "flying"
+        ]
+    },
+    "23": {
+        "base_atk": 60,
+        "base_def": 44,
+        "base_experience": 58,
+        "base_hp": 35,
+        "base_special_atk": 40,
+        "base_special_def": 54,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 24,
+        "evolve_level": 22,
+        "name": "ekan",
+        "type": [
+            "poison"
+        ]
+    },
+    "24": {
+        "base_atk": 85,
+        "base_def": 69,
+        "base_experience": 157,
+        "base_hp": 60,
+        "base_special_atk": 65,
+        "base_special_def": 79,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "arbok",
+        "type": [
+            "poison"
+        ]
+    },
+    "25": {
+        "base_atk": 55,
+        "base_def": 40,
+        "base_experience": 112,
+        "base_hp": 35,
+        "base_special_atk": 50,
+        "base_special_def": 50,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "flying": 0.5,
+            "ground": 2,
+            "steel": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "pikachu",
+        "type": [
+            "electric"
+        ]
+    },
+    "26": {
+        "base_atk": 90,
+        "base_def": 55,
+        "base_experience": 218,
+        "base_hp": 60,
+        "base_special_atk": 90,
+        "base_special_def": 80,
+        "base_speed": 110,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "flying": 0.5,
+            "ground": 2,
+            "steel": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "raichu",
+        "type": [
+            "electric"
+        ]
+    },
+    "27": {
+        "base_atk": 75,
+        "base_def": 85,
+        "base_experience": 60,
+        "base_hp": 50,
+        "base_special_atk": 20,
+        "base_special_def": 30,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "electric": 0,
+            "grass": 2,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 0.5,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 28,
+        "evolve_level": 22,
+        "name": "sandshrew",
+        "type": [
+            "ground"
+        ]
+    },
+    "28": {
+        "base_atk": 100,
+        "base_def": 110,
+        "base_experience": 158,
+        "base_hp": 75,
+        "base_special_atk": 45,
+        "base_special_def": 55,
+        "base_speed": 65,
+        "dmg_when_atked": {
+            "electric": 0,
+            "grass": 2,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 0.5,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "sandslash",
+        "type": [
+            "ground"
+        ]
+    },
+    "29": {
+        "base_atk": 47,
+        "base_def": 52,
+        "base_experience": 55,
+        "base_hp": 55,
+        "base_special_atk": 40,
+        "base_special_def": 40,
+        "base_speed": 41,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 30,
+        "evolve_level": 16,
+        "name": "nidoran_female",
+        "type": [
+            "poison"
+        ]
+    },
+    "30": {
+        "base_atk": 62,
+        "base_def": 67,
+        "base_experience": 128,
+        "base_hp": 70,
+        "base_special_atk": 55,
+        "base_special_def": 55,
+        "base_speed": 56,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 31,
+        "evolve_level": 36,
+        "name": "nidorina",
+        "type": [
+            "poison"
+        ]
+    },
+    "31": {
+        "base_atk": 92,
+        "base_def": 87,
+        "base_experience": 227,
+        "base_hp": 90,
+        "base_special_atk": 75,
+        "base_special_def": 85,
+        "base_speed": 76,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 0,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "ice": 2,
+            "poison": 0.25,
+            "psychic": 2,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "nidoqueen",
+        "type": [
+            "ground",
+            "poison"
+        ]
+    },
+    "32": {
+        "base_atk": 57,
+        "base_def": 40,
+        "base_experience": 55,
+        "base_hp": 46,
+        "base_special_atk": 40,
+        "base_special_def": 40,
+        "base_speed": 50,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 33,
+        "evolve_level": 16,
+        "name": "nidoran_male",
+        "type": [
+            "poison"
+        ]
+    },
+    "33": {
+        "base_atk": 72,
+        "base_def": 57,
+        "base_experience": 128,
+        "base_hp": 61,
+        "base_special_atk": 55,
+        "base_special_def": 55,
+        "base_speed": 65,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 34,
+        "evolve_level": 16,
+        "name": "nidorino",
+        "type": [
+            "poison"
+        ]
+    },
+    "34": {
+        "base_atk": 102,
+        "base_def": 77,
+        "base_experience": 227,
+        "base_hp": 81,
+        "base_special_atk": 85,
+        "base_special_def": 75,
+        "base_speed": 85,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 0,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "ice": 2,
+            "poison": 0.25,
+            "psychic": 2,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "nidoking",
+        "type": [
+            "ground",
+            "poison"
+        ]
+    },
+    "35": {
+        "base_atk": 45,
+        "base_def": 48,
+        "base_experience": 113,
+        "base_hp": 70,
+        "base_special_atk": 60,
+        "base_special_def": 65,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "dragon": 0,
+            "fighting": 0.5,
+            "poison": 2,
+            "steel": 2
+        },
+        "evolve_id": 36,
+        "evolve_level": 36,
+        "name": "clefairy",
+        "type": [
+            "fairy"
+        ]
+    },
+    "36": {
+        "base_atk": 70,
+        "base_def": 73,
+        "base_experience": 217,
+        "base_hp": 95,
+        "base_special_atk": 95,
+        "base_special_def": 90,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "dragon": 0,
+            "fighting": 0.5,
+            "poison": 2,
+            "steel": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "clefable",
+        "type": [
+            "fairy"
+        ]
+    },
+    "37": {
+        "base_atk": 41,
+        "base_def": 40,
+        "base_experience": 60,
+        "base_hp": 38,
+        "base_special_atk": 50,
+        "base_special_def": 65,
+        "base_speed": 65,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 38,
+        "evolve_level": 36,
+        "name": "vulpix",
+        "type": [
+            "fire"
+        ]
+    },
+    "38": {
+        "base_atk": 76,
+        "base_def": 75,
+        "base_experience": 177,
+        "base_hp": 73,
+        "base_special_atk": 81,
+        "base_special_def": 100,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "ninetales",
+        "type": [
+            "fire"
+        ]
+    },
+    "39": {
+        "base_atk": 45,
+        "base_def": 20,
+        "base_experience": 95,
+        "base_hp": 115,
+        "base_special_atk": 45,
+        "base_special_def": 25,
+        "base_speed": 20,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "dragon": 0,
+            "ghost": 0,
+            "poison": 2,
+            "steel": 2
+        },
+        "evolve_id": 40,
+        "evolve_level": 36,
+        "name": "jigglypuff",
+        "type": [
+            "fairy",
+            "normal"
+        ]
+    },
+    "40": {
+        "base_atk": 70,
+        "base_def": 45,
+        "base_experience": 196,
+        "base_hp": 140,
+        "base_special_atk": 85,
+        "base_special_def": 50,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "dragon": 0,
+            "ghost": 0,
+            "poison": 2,
+            "steel": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "wigglytuff",
+        "type": [
+            "fairy",
+            "normal"
+        ]
+    },
+    "41": {
+        "base_atk": 45,
+        "base_def": 35,
+        "base_experience": 49,
+        "base_hp": 40,
+        "base_special_atk": 30,
+        "base_special_def": 40,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "bug": 0.25,
+            "electric": 2,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 42,
+        "evolve_level": 22,
+        "name": "zubat",
+        "type": [
+            "poison",
+            "flying"
+        ]
+    },
+    "42": {
+        "base_atk": 80,
+        "base_def": 70,
+        "base_experience": 159,
+        "base_hp": 75,
+        "base_special_atk": 65,
+        "base_special_def": 75,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "bug": 0.25,
+            "electric": 2,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 169,
+        "evolve_level": 36,
+        "name": "golbat",
+        "type": [
+            "poison",
+            "flying"
+        ]
+    },
+    "43": {
+        "base_atk": 50,
+        "base_def": 55,
+        "base_experience": 64,
+        "base_hp": 45,
+        "base_special_atk": 75,
+        "base_special_def": 65,
+        "base_speed": 30,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 44,
+        "evolve_level": 21,
+        "name": "oddish",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "44": {
+        "base_atk": 65,
+        "base_def": 70,
+        "base_experience": 138,
+        "base_hp": 60,
+        "base_special_atk": 85,
+        "base_special_def": 75,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 45,
+        "evolve_level": 36,
+        "name": "gloom",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "45": {
+        "base_atk": 80,
+        "base_def": 85,
+        "base_experience": 221,
+        "base_hp": 75,
+        "base_special_atk": 110,
+        "base_special_def": 90,
+        "base_speed": 50,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "vileplume",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "46": {
+        "base_atk": 70,
+        "base_def": 55,
+        "base_experience": 57,
+        "base_hp": 35,
+        "base_special_atk": 45,
+        "base_special_def": 55,
+        "base_speed": 25,
+        "dmg_when_atked": {
+            "bug": 2,
+            "electric": 0.5,
+            "fighting": 0.5,
+            "fire": 4,
+            "flying": 4,
+            "grass": 0.25,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 2,
+            "rock": 2,
+            "water": 0.5
+        },
+        "evolve_id": 47,
+        "evolve_level": 24,
+        "name": "paras",
+        "type": [
+            "grass",
+            "bug"
+        ]
+    },
+    "47": {
+        "base_atk": 95,
+        "base_def": 80,
+        "base_experience": 142,
+        "base_hp": 60,
+        "base_special_atk": 60,
+        "base_special_def": 80,
+        "base_speed": 30,
+        "dmg_when_atked": {
+            "bug": 2,
+            "electric": 0.5,
+            "fighting": 0.5,
+            "fire": 4,
+            "flying": 4,
+            "grass": 0.25,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 2,
+            "rock": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "parasect",
+        "type": [
+            "grass",
+            "bug"
+        ]
+    },
+    "48": {
+        "base_atk": 55,
+        "base_def": 50,
+        "base_experience": 61,
+        "base_hp": 60,
+        "base_special_atk": 40,
+        "base_special_def": 55,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 49,
+        "evolve_level": 31,
+        "name": "venonat",
+        "type": [
+            "bug",
+            "poison"
+        ]
+    },
+    "49": {
+        "base_atk": 65,
+        "base_def": 60,
+        "base_experience": 158,
+        "base_hp": 70,
+        "base_special_atk": 90,
+        "base_special_def": 75,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.25,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "poison": 0.5,
+            "psychic": 2,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "venomoth",
+        "type": [
+            "bug",
+            "poison"
+        ]
+    },
+    "50": {
+        "base_atk": 55,
+        "base_def": 25,
+        "base_experience": 53,
+        "base_hp": 10,
+        "base_special_atk": 35,
+        "base_special_def": 45,
+        "base_speed": 95,
+        "dmg_when_atked": {
+            "electric": 0,
+            "grass": 2,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 0.5,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 51,
+        "evolve_level": 26,
+        "name": "diglett",
+        "type": [
+            "ground"
+        ]
+    },
+    "51": {
+        "base_atk": 80,
+        "base_def": 50,
+        "base_experience": 153,
+        "base_hp": 35,
+        "base_special_atk": 50,
+        "base_special_def": 70,
+        "base_speed": 120,
+        "dmg_when_atked": {
+            "electric": 0,
+            "grass": 2,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 0.5,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "diglett",
+        "type": [
+            "ground"
+        ]
+    },
+    "52": {
+        "base_atk": 45,
+        "base_def": 35,
+        "base_experience": 69,
+        "base_hp": 40,
+        "base_special_atk": 40,
+        "base_special_def": 40,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 53,
+        "evolve_level": 28,
+        "name": "meowth",
+        "type": [
+            "normal"
+        ]
+    },
+    "53": {
+        "base_atk": 70,
+        "base_def": 60,
+        "base_experience": 148,
+        "base_hp": 65,
+        "base_special_atk": 65,
+        "base_special_def": 65,
+        "base_speed": 115,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "persian",
+        "type": [
+            "normal"
+        ]
+    },
+    "54": {
+        "base_atk": 82,
+        "base_def": 78,
+        "base_experience": 174,
+        "base_hp": 80,
+        "base_special_atk": 95,
+        "base_special_def": 80,
+        "base_speed": 85,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "golduck",
+        "type": [
+            "water"
+        ]
+    },
+    "55": {
+        "base_atk": 80,
+        "base_def": 35,
+        "base_experience": 74,
+        "base_hp": 40,
+        "base_special_atk": 35,
+        "base_special_def": 45,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "flying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 56,
+        "evolve_level": 28,
+        "name": "mankey",
+        "type": [
+            "fighting"
+        ]
+    },
+    "56": {
+        "base_atk": 105,
+        "base_def": 60,
+        "base_experience": 149,
+        "base_hp": 65,
+        "base_special_atk": 60,
+        "base_special_def": 70,
+        "base_speed": 95,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "flying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "primeape",
+        "type": [
+            "fighting"
+        ]
+    },
+    "58": {
+        "base_atk": 70,
+        "base_def": 45,
+        "base_experience": 91,
+        "base_hp": 55,
+        "base_special_atk": 50,
+        "base_special_def": 60,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 59,
+        "evolve_level": 36,
+        "name": "growlithe",
+        "speed": 60,
+        "type": [
+            "fire"
+        ]
+    },
+    "59": {
+        "base_atk": 110,
+        "base_def": 80,
+        "base_experience": 213,
+        "base_hp": 90,
+        "base_special_atk": 100,
+        "base_special_def": 80,
+        "base_speed": 95,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "arcaine",
+        "type": [
+            "fire"
+        ]
+    },
+    "60": {
+        "base_atk": 50,
+        "base_def": 40,
+        "base_experience": 77,
+        "base_hp": 40,
+        "base_special_atk": 40,
+        "base_special_def": 40,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 61,
+        "evolve_level": 25,
+        "name": "poliwag",
+        "type": [
+            "water"
+        ]
+    },
+    "61": {
+        "base_atk": 65,
+        "base_def": 65,
+        "base_experience": 131,
+        "base_hp": 65,
+        "base_special_atk": 50,
+        "base_special_def": 50,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 62,
+        "evolve_level": 50,
+        "name": "poliwhirl",
+        "type": [
+            "water"
+        ]
+    },
+    "62": {
+        "base_atk": 90,
+        "base_def": 95,
+        "base_experience": 185,
+        "base_hp": 90,
+        "base_special_atk": 70,
+        "base_special_def": 90,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "electric": 2,
+            "fairy": 2,
+            "fire": 0.5,
+            "flying": 2,
+            "grass": 2,
+            "ice": 0.5,
+            "psychic": 2,
+            "rock": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "poliwhirl",
+        "type": [
+            "water",
+            "fighting"
+        ]
+    },
+    "63": {
+        "base_atk": 20,
+        "base_def": 15,
+        "base_experience": 73,
+        "base_hp": 25,
+        "base_special_atk": 105,
+        "base_special_def": 55,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dark": 2,
+            "fighting": 0.5,
+            "ghost": 2,
+            "psychic": 0.5
+        },
+        "evolve_id": 64,
+        "evolve_level": 16,
+        "name": "abra",
+        "type": [
+            "psychic"
+        ]
+    },
+    "64": {
+        "base_atk": 50,
+        "base_def": 45,
+        "base_experience": 186,
+        "base_hp": 55,
+        "base_special_atk": 135,
+        "base_special_def": 85,
+        "base_speed": 120,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dark": 2,
+            "fighting": 0.5,
+            "ghost": 2,
+            "psychic": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "alakazam",
+        "type": [
+            "psychic"
+        ]
+    },
+    "66": {
+        "base_atk": 80,
+        "base_def": 50,
+        "base_experience": 88,
+        "base_hp": 70,
+        "base_special_atk": 35,
+        "base_special_def": 35,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "flying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 67,
+        "evolve_level": 28,
+        "name": "machop",
+        "type": [
+            "fighting"
+        ]
+    },
+    "67": {
+        "base_atk": 100,
+        "base_def": 70,
+        "base_experience": 146,
+        "base_hp": 80,
+        "base_special_atk": 50,
+        "base_special_def": 60,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "flying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 68,
+        "evolve_level": 50,
+        "name": "machoke",
+        "type": [
+            "fighting"
+        ]
+    },
+    "68": {
+        "base_atk": 130,
+        "base_def": 80,
+        "base_experience": 193,
+        "base_hp": 90,
+        "base_special_atk": 65,
+        "base_special_def": 85,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "flying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "machamp",
+        "type": [
+            "fighting"
+        ]
+    },
+    "69": {
+        "base_atk": 75,
+        "base_def": 35,
+        "base_experience": 84,
+        "base_hp": 50,
+        "base_special_atk": 70,
+        "base_special_def": 30,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 70,
+        "evolve_level": 21,
+        "name": "bellsprout",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "70": {
+        "base_atk": 90,
+        "base_def": 50,
+        "base_experience": 151,
+        "base_hp": 65,
+        "base_special_atk": 85,
+        "base_special_def": 45,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 71,
+        "evolve_level": 50,
+        "name": "weepinbell",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "71": {
+        "base_atk": 105,
+        "base_def": 65,
+        "base_experience": 191,
+        "base_hp": 80,
+        "base_special_atk": 100,
+        "base_special_def": 60,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "victreebel",
+        "type": [
+            "grass",
+            "poison"
+        ]
+    },
+    "72": {
+        "base_atk": 40,
+        "base_def": 35,
+        "base_experience": 105,
+        "base_hp": 40,
+        "base_special_atk": 50,
+        "base_special_def": 100,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "poison": 0.5,
+            "psychic": 2,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 73,
+        "evolve_level": 30,
+        "name": "tentacool",
+        "type": [
+            "water",
+            "poison"
+        ]
+    },
+    "73": {
+        "base_atk": 70,
+        "base_def": 65,
+        "base_experience": 205,
+        "base_hp": 80,
+        "base_special_atk": 80,
+        "base_special_def": 120,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "poison": 0.5,
+            "psychic": 2,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "tentacruel",
+        "type": [
+            "water",
+            "poison"
+        ]
+    },
+    "74": {
+        "base_atk": 80,
+        "base_def": 100,
+        "base_experience": 86,
+        "base_hp": 40,
+        "base_special_atk": 30,
+        "base_special_def": 30,
+        "base_speed": 20,
+        "dmg_when_atked": {
+            "electric": 0,
+            "fighting": 2,
+            "fire": 0.5,
+            "flying": 0.5,
+            "grass": 4,
+            "ground": 2,
+            "ice": 2,
+            "normal": 0.5,
+            "poison": 0.25,
+            "rock": 0.5,
+            "steel": 2,
+            "water": 4
+        },
+        "evolve_id": 75,
+        "evolve_level": 25,
+        "name": "geodude",
+        "type": [
+            "rock",
+            "ground"
+        ]
+    },
+    "75": {
+        "base_atk": 95,
+        "base_def": 115,
+        "base_experience": 134,
+        "base_hp": 55,
+        "base_special_atk": 45,
+        "base_special_def": 45,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "electric": 0,
+            "fighting": 2,
+            "fire": 0.5,
+            "flying": 0.5,
+            "grass": 4,
+            "ground": 2,
+            "ice": 2,
+            "normal": 0.5,
+            "poison": 0.25,
+            "rock": 0.5,
+            "steel": 2,
+            "water": 4
+        },
+        "evolve_id": 76,
+        "evolve_level": 52,
+        "name": "graveler",
+        "type": [
+            "rock",
+            "ground"
+        ]
+    },
+    "76": {
+        "base_atk": 110,
+        "base_def": 130,
+        "base_experience": 177,
+        "base_hp": 80,
+        "base_special_atk": 55,
+        "base_special_def": 65,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "electric": 0,
+            "fighting": 2,
+            "fire": 0.5,
+            "flying": 0.5,
+            "grass": 4,
+            "ground": 2,
+            "ice": 2,
+            "normal": 0.5,
+            "poison": 0.25,
+            "rock": 0.5,
+            "steel": 2,
+            "water": 4
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "golem",
+        "type": [
+            "rock",
+            "ground"
+        ]
+    },
+    "77": {
+        "base_atk": 85,
+        "base_def": 55,
+        "base_experience": 82,
+        "base_hp": 50,
+        "base_special_atk": 65,
+        "base_special_def": 65,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 2,
+            "ice": 2,
+            "psychic": 2,
+            "water": 0.5
+        },
+        "evolve_id": 78,
+        "evolve_level": 40,
+        "name": "ponyta",
+        "type": [
+            "fire"
+        ]
+    },
+    "78": {
+        "base_atk": 100,
+        "base_def": 70,
+        "base_experience": 175,
+        "base_hp": 65,
+        "base_special_atk": 80,
+        "base_special_def": 80,
+        "base_speed": 105,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "rapidash",
+        "type": [
+            "fire"
+        ]
+    },
+    "79": {
+        "base_atk": 65,
+        "base_def": 65,
+        "base_experience": 63,
+        "base_hp": 90,
+        "base_special_atk": 40,
+        "base_special_def": 40,
+        "base_speed": 15,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "electric": 2,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "ghost": 2,
+            "grass": 2,
+            "ice": 0.5,
+            "psychic": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 80,
+        "evolve_level": 37,
+        "name": "slowpoke",
+        "type": [
+            "psychic",
+            "water"
+        ]
+    },
+    "80": {
+        "base_atk": 75,
+        "base_def": 110,
+        "base_experience": 172,
+        "base_hp": 95,
+        "base_special_atk": 100,
+        "base_special_def": 80,
+        "base_speed": 30,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "electric": 2,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "ghost": 2,
+            "grass": 2,
+            "ice": 0.5,
+            "psychic": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "slowbro",
+        "type": [
+            "psychic",
+            "water"
+        ]
+    },
+    "81": {
+        "base_atk": 35,
+        "base_def": 70,
+        "base_experience": 65,
+        "base_hp": 25,
+        "base_special_atk": 95,
+        "base_special_def": 55,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dragon": 0.5,
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 2,
+            "fire": 2,
+            "flying": 0.25,
+            "grass": 0.5,
+            "ground": 4,
+            "ice": 0.5,
+            "normal": 0.5,
+            "poison": 0,
+            "psychic": 0.5,
+            "rock": 0.5,
+            "steel": 0.25
+        },
+        "evolve_id": 82,
+        "evolve_level": 30,
+        "name": "magnemite",
+        "type": [
+            "electric",
+            "steel"
+        ]
+    },
+    "82": {
+        "base_atk": 60,
+        "base_def": 95,
+        "base_experience": 163,
+        "base_hp": 50,
+        "base_special_atk": 120,
+        "base_special_def": 70,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dragon": 0.5,
+            "electric": 0.5,
+            "fairy": 0.5,
+            "fighting": 2,
+            "fire": 2,
+            "flying": 0.25,
+            "grass": 0.5,
+            "ground": 4,
+            "ice": 0.5,
+            "normal": 0.5,
+            "poison": 0,
+            "psychic": 0.5,
+            "rock": 0.5,
+            "steel": 0.25
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "magneton",
+        "type": [
+            "electric",
+            "steel"
+        ]
+    },
+    "83": {
+        "base_atk": 65,
+        "base_def": 55,
+        "base_experience": 132,
+        "base_hp": 52,
+        "base_special_atk": 58,
+        "base_special_def": 62,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0.5,
+            "grass": 0.5,
+            "ground": 0.5,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "farfetchd",
+        "type": [
+            "flying",
+            "normal"
+        ]
+    },
+    "84": {
+        "base_atk": 85,
+        "base_def": 45,
+        "base_experience": 62,
+        "base_hp": 35,
+        "base_special_atk": 35,
+        "base_special_def": 35,
+        "base_speed": 75,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 85,
+        "evolve_level": 31,
+        "name": "doduo",
+        "type": [
+            "flying",
+            "normal"
+        ]
+    },
+    "85": {
+        "base_atk": 110,
+        "base_def": 70,
+        "base_experience": 165,
+        "base_hp": 60,
+        "base_special_atk": 60,
+        "base_special_def": 60,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "ghost": 0,
+            "grass": 0.5,
+            "ground": 0,
+            "ice": 2,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "dodrio",
+        "type": [
+            "flying",
+            "normal"
+        ]
+    },
+    "86": {
+        "base_atk": 45,
+        "base_def": 55,
+        "base_experience": 65,
+        "base_hp": 65,
+        "base_special_atk": 45,
+        "base_special_def": 70,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 87,
+        "evolve_level": 34,
+        "name": "seel",
+        "type": [
+            "water"
+        ]
+    },
+    "87": {
+        "base_atk": 70,
+        "base_def": 80,
+        "base_experience": 166,
+        "base_hp": 90,
+        "base_special_atk": 70,
+        "base_special_def": 95,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fighting": 2,
+            "grass": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "dewgong",
+        "type": [
+            "ice",
+            "water"
+        ]
+    },
+    "88": {
+        "base_atk": 80,
+        "base_def": 50,
+        "base_experience": 65,
+        "base_hp": 80,
+        "base_special_atk": 40,
+        "base_special_def": 50,
+        "base_speed": 25,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 89,
+        "evolve_level": 38,
+        "name": "grimer",
+        "type": [
+            "poison"
+        ]
+    },
+    "89": {
+        "base_atk": 105,
+        "base_def": 75,
+        "base_experience": 175,
+        "base_hp": 105,
+        "base_special_atk": 65,
+        "base_special_def": 100,
+        "base_speed": 50,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "muk",
+        "type": [
+            "poison"
+        ]
+    },
+    "90": {
+        "base_atk": 65,
+        "base_def": 100,
+        "base_experience": 61,
+        "base_hp": 30,
+        "base_special_atk": 45,
+        "base_special_def": 25,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 91,
+        "evolve_level": 35,
+        "name": "shellder",
+        "type": [
+            "water"
+        ]
+    },
+    "91": {
+        "base_atk": 95,
+        "base_def": 180,
+        "base_experience": 184,
+        "base_hp": 50,
+        "base_special_atk": 85,
+        "base_special_def": 45,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "cloyster",
+        "type": [
+            "ice",
+            "water"
+        ]
+    },
+    "92": {
+        "base_atk": 35,
+        "base_def": 30,
+        "base_experience": 62,
+        "base_hp": 30,
+        "base_special_atk": 100,
+        "base_special_def": 35,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "bug": 0.25,
+            "dark": 2,
+            "fairy": 0.5,
+            "fighting": 0,
+            "ghost": 2,
+            "grass": 0.5,
+            "ground": 2,
+            "normal": 0,
+            "poison": 0.25,
+            "psychic": 2
+        },
+        "evolve_id": 93,
+        "evolve_level": 25,
+        "name": "gastly",
+        "type": [
+            "ghost",
+            "poison"
+        ]
+    },
+    "93": {
+        "base_atk": 50,
+        "base_def": 45,
+        "base_experience": 142,
+        "base_hp": 45,
+        "base_special_atk": 115,
+        "base_special_def": 55,
+        "base_speed": 95,
+        "dmg_when_atked": {
+            "bug": 0.25,
+            "dark": 2,
+            "fairy": 0.5,
+            "fighting": 0,
+            "ghost": 2,
+            "grass": 0.5,
+            "ground": 2,
+            "normal": 0,
+            "poison": 0.25,
+            "psychic": 2
+        },
+        "evolve_id": 94,
+        "evolve_level": 40,
+        "name": "haunter",
+        "type": [
+            "ghost",
+            "poison"
+        ]
+    },
+    "94": {
+        "base_atk": 65,
+        "base_def": 60,
+        "base_experience": 225,
+        "base_hp": 60,
+        "base_special_atk": 130,
+        "base_special_def": 75,
+        "base_speed": 110,
+        "dmg_when_atked": {
+            "bug": 0.25,
+            "dark": 2,
+            "fairy": 0.5,
+            "fighting": 0,
+            "ghost": 2,
+            "grass": 0.5,
+            "ground": 2,
+            "normal": 0,
+            "poison": 0.25,
+            "psychic": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "gengar",
+        "type": [
+            "ghost",
+            "poison"
+        ]
+    },
+    "95": {
+        "base_atk": 45,
+        "base_def": 160,
+        "base_experience": 77,
+        "base_hp": 35,
+        "base_special_atk": 30,
+        "base_special_def": 45,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "electric": 0,
+            "fighting": 2,
+            "fire": 0.5,
+            "flying": 0.5,
+            "grass": 4,
+            "ice": 2,
+            "normal": 0.5,
+            "poison": 0.25,
+            "rock": 0.5,
+            "steel": 2,
+            "water": 4
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "onix",
+        "type": [
+            "rock",
+            "ground"
+        ]
+    },
+    "96": {
+        "base_atk": 48,
+        "base_def": 45,
+        "base_experience": 66,
+        "base_hp": 60,
+        "base_special_atk": 43,
+        "base_special_def": 90,
+        "base_speed": 42,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "fighting": 0.5,
+            "ghost": 2,
+            "psychic": 0.5
+        },
+        "evolve_id": 97,
+        "evolve_level": 26,
+        "name": "drowzee",
+        "type": [
+            "psychic"
+        ]
+    },
+    "97": {
+        "base_atk": 73,
+        "base_def": 70,
+        "base_experience": 169,
+        "base_hp": 85,
+        "base_special_atk": 73,
+        "base_special_def": 115,
+        "base_speed": 67,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "fighting": 0.5,
+            "ghost": 2,
+            "psychic": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "hypno",
+        "type": [
+            "psychic"
+        ]
+    },
+    "98": {
+        "base_atk": 105,
+        "base_def": 90,
+        "base_experience": 65,
+        "base_hp": 30,
+        "base_special_atk": 25,
+        "base_special_def": 25,
+        "base_speed": 50,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 99,
+        "evolve_level": 28,
+        "name": "krabby",
+        "type": [
+            "water"
+        ]
+    },
+    "99": {
+        "base_atk": 130,
+        "base_def": 115,
+        "base_experience": 166,
+        "base_hp": 55,
+        "base_special_atk": 50,
+        "base_special_def": 50,
+        "base_speed": 75,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "kingler",
+        "type": [
+            "water"
+        ]
+    },
+    "100": {
+        "base_atk": 30,
+        "base_def": 50,
+        "base_experience": 66,
+        "base_hp": 40,
+        "base_special_atk": 55,
+        "base_special_def": 55,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "fire": 0.5,
+            "flying": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 101,
+        "evolve_level": 30,
+        "name": "voltorb",
+        "type": [
+            "electric"
+        ]
+    },
+    "101": {
+        "base_atk": 50,
+        "base_def": 70,
+        "base_experience": 172,
+        "base_hp": 60,
+        "base_special_atk": 80,
+        "base_special_def": 80,
+        "base_speed": 140,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "flying": 0.5,
+            "ground": 2,
+            "steel": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "electrode",
+        "type": [
+            "electric"
+        ]
+    },
+    "102": {
+        "base_atk": 40,
+        "base_def": 80,
+        "base_experience": 65,
+        "base_hp": 60,
+        "base_special_atk": 60,
+        "base_special_def": 45,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "bug": 4,
+            "dragon": 2,
+            "electric": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "ghost": 2,
+            "grass": 0.5,
+            "ice": 2,
+            "plying": 2,
+            "poison": 2,
+            "psychic": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 103,
+        "evolve_level": 16,
+        "name": "Exeggcute",
+        "type": [
+            "grass",
+            "psychic"
+        ]
+    },
+    "103": {
+        "base_atk": 95,
+        "base_def": 85,
+        "base_experience": 186,
+        "base_hp": 95,
+        "base_special_atk": 125,
+        "base_special_def": 65,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "bug": 4,
+            "dragon": 2,
+            "electric": 0.5,
+            "fighting": 0.5,
+            "fire": 2,
+            "ghost": 2,
+            "grass": 0.5,
+            "ice": 2,
+            "plying": 2,
+            "poison": 2,
+            "psychic": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Exeggutor",
+        "type": [
+            "psychic",
+            "grass"
+        ]
+    },
+    "104": {
+        "base_atk": 50,
+        "base_def": 95,
+        "base_experience": 64,
+        "base_hp": 50,
+        "base_special_atk": 40,
+        "base_special_def": 50,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "grass": 2,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 0.5,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 105,
+        "evolve_level": 28,
+        "name": "Cubone",
+        "type": [
+            "ground"
+        ]
+    },
+    "105": {
+        "base_atk": 80,
+        "base_def": 110,
+        "base_experience": 149,
+        "base_hp": 60,
+        "base_special_atk": 50,
+        "base_special_def": 80,
+        "base_speed": 45,
+        "dmg_when_atked": {
+            "electric": 0,
+            "grass": 2,
+            "ground": 0.5,
+            "ice": 2,
+            "poison": 0.5,
+            "rock": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Marowak",
+        "type": [
+            "ground"
+        ]
+    },
+    "106": {
+        "base_atk": 120,
+        "base_def": 53,
+        "base_experience": 159,
+        "base_hp": 50,
+        "base_special_atk": 35,
+        "base_special_def": 110,
+        "base_speed": 87,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "grass": 0.5,
+            "plying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 107,
+        "evolve_level": 20,
+        "name": "Hitmonlee",
+        "type": [
+            "fighting"
+        ]
+    },
+    "107": {
+        "base_atk": 105,
+        "base_def": 79,
+        "base_experience": 159,
+        "base_hp": 50,
+        "base_special_atk": 35,
+        "base_special_def": 110,
+        "base_speed": 76,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "dark": 0.5,
+            "fairy": 2,
+            "grass": 0.5,
+            "plying": 2,
+            "psychic": 2,
+            "rock": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Hitmonchan",
+        "type": [
+            "fighting"
+        ]
+    },
+    "108": {
+        "base_atk": 55,
+        "base_def": 75,
+        "base_experience": 77,
+        "base_hp": 90,
+        "base_special_atk": 60,
+        "base_special_def": 75,
+        "base_speed": 30,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Lickitung",
+        "type": [
+            "normal"
+        ]
+    },
+    "109": {
+        "base_atk": 65,
+        "base_def": 95,
+        "base_experience": 68,
+        "base_hp": 40,
+        "base_special_atk": 60,
+        "base_special_def": 45,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "gound": 2,
+            "grass": 0.5,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 110,
+        "evolve_level": 35,
+        "name": "Lickitung",
+        "type": [
+            "poison"
+        ]
+    },
+    "110": {
+        "base_atk": 90,
+        "base_def": 120,
+        "base_experience": 172,
+        "base_hp": 65,
+        "base_special_atk": 85,
+        "base_special_def": 70,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "gound": 2,
+            "grass": 0.5,
+            "poison": 0.5,
+            "psychic": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Lickitung",
+        "type": [
+            "poison"
+        ]
+    },
+    "111": {
+        "base_atk": 85,
+        "base_def": 95,
+        "base_experience": 69,
+        "base_hp": 80,
+        "base_special_atk": 30,
+        "base_special_def": 30,
+        "base_speed": 25,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fighting": 2,
+            "fire": 0.5,
+            "flying": 0.5,
+            "grass": 4,
+            "ice": 2,
+            "nomal": 0.5,
+            "poison": 0.5,
+            "rock": 0.5,
+            "steel": 2,
+            "water": 4
+        },
+        "evolve_id": 112,
+        "evolve_level": 42,
+        "name": "Lickitung",
+        "type": [
+            "rock",
+            "ground"
+        ]
+    },
+    "112": {
+        "base_atk": 130,
+        "base_def": 120,
+        "base_experience": 170,
+        "base_hp": 105,
+        "base_special_atk": 45,
+        "base_special_def": 45,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "fighting": 2,
+            "fire": 0.5,
+            "flying": 0.5,
+            "grass": 4,
+            "ice": 2,
+            "nomal": 0.5,
+            "poison": 0.5,
+            "rock": 0.5,
+            "steel": 2,
+            "water": 4
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Lickitung",
+        "type": [
+            "rock",
+            "ground"
+        ]
+    },
+    "113": {
+        "base_atk": 55,
+        "base_def": 115,
+        "base_experience": 87,
+        "base_hp": 65,
+        "base_special_atk": 100,
+        "base_special_def": 40,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "bug": 2,
+            "electric": 0,
+            "fire": 2,
+            "flying": 2,
+            "grass": 2,
+            "ice": 2,
+            "poison": 2,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Tangela",
+        "type": [
+            "grass"
+        ]
+    },
+    "115": {
+        "base_atk": 95,
+        "base_def": 80,
+        "base_experience": 172,
+        "base_hp": 105,
+        "base_special_atk": 40,
+        "base_special_def": 80,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Kangaskhan",
+        "type": [
+            "normal"
+        ]
+    },
+    "116": {
+        "base_atk": 40,
+        "base_def": 70,
+        "base_experience": 59,
+        "base_hp": 30,
+        "base_special_atk": 70,
+        "base_special_def": 25,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 117,
+        "evolve_level": 32,
+        "name": "Horsea",
+        "type": [
+            "water"
+        ]
+    },
+    "117": {
+        "base_atk": 65,
+        "base_def": 95,
+        "base_experience": 154,
+        "base_hp": 55,
+        "base_special_atk": 95,
+        "base_special_def": 45,
+        "base_speed": 85,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Horsea",
+        "type": [
+            "water"
+        ]
+    },
+    "118": {
+        "base_atk": 67,
+        "base_def": 60,
+        "base_experience": 64,
+        "base_hp": 45,
+        "base_special_atk": 35,
+        "base_special_def": 50,
+        "base_speed": 63,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 119,
+        "evolve_level": 33,
+        "name": "Goldeen",
+        "type": [
+            "water"
+        ]
+    },
+    "119": {
+        "base_atk": 92,
+        "base_def": 65,
+        "base_experience": 158,
+        "base_hp": 80,
+        "base_special_atk": 65,
+        "base_special_def": 80,
+        "base_speed": 68,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Goldeen",
+        "type": [
+            "water"
+        ]
+    },
+    "120": {
+        "base_atk": 45,
+        "base_def": 55,
+        "base_experience": 68,
+        "base_hp": 30,
+        "base_special_atk": 70,
+        "base_special_def": 55,
+        "base_speed": 85,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 121,
+        "evolve_level": 23,
+        "name": "Goldeen",
+        "type": [
+            "water"
+        ]
+    },
+    "121": {
+        "base_atk": 75,
+        "base_def": 85,
+        "base_experience": 182,
+        "base_hp": 60,
+        "base_special_atk": 100,
+        "base_special_def": 85,
+        "base_speed": 115,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "electric": 2,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "ghost": 2,
+            "grass": 2,
+            "ice": 0.5,
+            "psychic": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Starmie",
+        "type": [
+            "water"
+        ]
+    },
+    "122": {
+        "base_atk": 45,
+        "base_def": 65,
+        "base_experience": 161,
+        "base_hp": 40,
+        "base_special_atk": 100,
+        "base_special_def": 120,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "dark": 0.5,
+            "dragon": 2,
+            "fighting": 0.5,
+            "ghost": 2,
+            "poison": 2,
+            "psychic": 0.5,
+            "steel": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Mr. Mime",
+        "type": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    "123": {
+        "base_atk": 110,
+        "base_def": 80,
+        "base_experience": 100,
+        "base_hp": 70,
+        "base_special_atk": 55,
+        "base_special_def": 80,
+        "base_speed": 105,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fighting": 0.25,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.25,
+            "ground": 0.5,
+            "ice": 2,
+            "rock": 4
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Mr. Mime",
+        "type": [
+            "bug",
+            "flying"
+        ]
+    },
+    "124": {
+        "base_atk": 50,
+        "base_def": 35,
+        "base_experience": 159,
+        "base_hp": 65,
+        "base_special_atk": 115,
+        "base_special_def": 95,
+        "base_speed": 95,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "fire": 2,
+            "ghost": 2,
+            "ice": 0.5,
+            "psychic": 0.5,
+            "rock": 2,
+            "steel": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Jynx",
+        "type": [
+            "psychic",
+            "ice"
+        ]
+    },
+    "125": {
+        "base_atk": 83,
+        "base_def": 57,
+        "base_experience": 172,
+        "base_hp": 65,
+        "base_special_atk": 95,
+        "base_special_def": 85,
+        "base_speed": 105,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "flying": 0.5,
+            "ground": 2,
+            "steel": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Electabuzz",
+        "type": [
+            "electric"
+        ]
+    },
+    "126": {
+        "base_atk": 95,
+        "base_def": 57,
+        "base_experience": 173,
+        "base_hp": 65,
+        "base_special_atk": 100,
+        "base_special_def": 85,
+        "base_speed": 93,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Magmar",
+        "type": [
+            "fire"
+        ]
+    },
+    "127": {
+        "base_atk": 125,
+        "base_def": 100,
+        "base_experience": 175,
+        "base_hp": 65,
+        "base_special_atk": 50,
+        "base_special_def": 70,
+        "base_speed": 85,
+        "dmg_when_atked": {
+            "fighting": 0.5,
+            "fire": 2,
+            "flying": 2,
+            "grass": 0.5,
+            "ground": 0.5,
+            "rock": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Pinsir",
+        "type": [
+            "bug"
+        ]
+    },
+    "128": {
+        "base_atk": 100,
+        "base_def": 95,
+        "base_experience": 172,
+        "base_hp": 75,
+        "base_special_atk": 40,
+        "base_special_def": 70,
+        "base_speed": 110,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Pinsir",
+        "type": [
+            "normal"
+        ]
+    },
+    "129": {
+        "base_atk": 10,
+        "base_def": 55,
+        "base_experience": 40,
+        "base_hp": 20,
+        "base_special_atk": 15,
+        "base_special_def": 20,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 130,
+        "evolve_level": 20,
+        "name": "Magikarp",
+        "type": [
+            "water"
+        ]
+    },
+    "130": {
+        "base_atk": 125,
+        "base_def": 79,
+        "base_experience": 189,
+        "base_hp": 95,
+        "base_special_atk": 60,
+        "base_special_def": 100,
+        "base_speed": 81,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 4,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "ground": 0,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Gyarados",
+        "type": [
+            "water",
+            "flying"
+        ]
+    },
+    "131": {
+        "base_atk": 85,
+        "base_def": 80,
+        "base_experience": 187,
+        "base_hp": 130,
+        "base_special_atk": 85,
+        "base_special_def": 95,
+        "base_speed": 60,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fighting": 2,
+            "grass": 4,
+            "ice": 0.25,
+            "rock": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Lapras",
+        "type": [
+            "water",
+            "ice"
+        ]
+    },
+    "132": {
+        "base_atk": 48,
+        "base_def": 48,
+        "base_experience": 101,
+        "base_hp": 48,
+        "base_special_atk": 48,
+        "base_special_def": 48,
+        "base_speed": 48,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Ditto",
+        "type": [
+            "normal"
+        ]
+    },
+    "133": {
+        "base_atk": 55,
+        "base_def": 50,
+        "base_experience": 65,
+        "base_hp": 55,
+        "base_special_atk": 45,
+        "base_special_def": 65,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 134,
+        "evolve_level": 20,
+        "name": "Eevee",
+        "type": [
+            "normal"
+        ]
+    },
+    "134": {
+        "base_atk": 65,
+        "base_def": 60,
+        "base_experience": 184,
+        "base_hp": 130,
+        "base_special_atk": 110,
+        "base_special_def": 95,
+        "base_speed": 65,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fire": 0.5,
+            "grass": 2,
+            "ice": 0.5,
+            "steel": 0.5,
+            "water": 0.5
+        },
+        "evolve_id": 135,
+        "evolve_level": 23,
+        "name": "Vaporeon",
+        "type": [
+            "water"
+        ]
+    },
+    "135": {
+        "base_atk": 65,
+        "base_def": 60,
+        "base_experience": 184,
+        "base_hp": 65,
+        "base_special_atk": 110,
+        "base_special_def": 95,
+        "base_speed": 130,
+        "dmg_when_atked": {
+            "electric": 0.5,
+            "flying": 0.5,
+            "ground": 2,
+            "steel": 0.5
+        },
+        "evolve_id": 136,
+        "evolve_level": 20,
+        "name": "Jolteon",
+        "type": [
+            "electric"
+        ]
+    },
+    "136": {
+        "base_atk": 130,
+        "base_def": 60,
+        "base_experience": 184,
+        "base_hp": 65,
+        "base_special_atk": 95,
+        "base_special_def": 110,
+        "base_speed": 65,
+        "dmg_when_atked": {
+            "fairy": 0.5,
+            "fire": 0.5,
+            "ground": 2,
+            "ice": 0.5,
+            "rock": 2,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Flareon",
+        "type": [
+            "fire"
+        ]
+    },
+    "137": {
+        "base_atk": 60,
+        "base_def": 70,
+        "base_experience": 79,
+        "base_hp": 65,
+        "base_special_atk": 85,
+        "base_special_def": 75,
+        "base_speed": 40,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Porygon",
+        "type": [
+            "normal"
+        ]
+    },
+    "138": {
+        "base_atk": 40,
+        "base_def": 100,
+        "base_experience": 71,
+        "base_hp": 35,
+        "base_special_atk": 90,
+        "base_special_def": 55,
+        "base_speed": 35,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fighting": 2,
+            "flying": 0.5,
+            "ghost": 0.25,
+            "grass": 4,
+            "ground": 2,
+            "ice": 0.5,
+            "normal": 0.5,
+            "poison": 0.5
+        },
+        "evolve_id": 139,
+        "evolve_level": 40,
+        "name": "Omanyte",
+        "type": [
+            "water",
+            "rock"
+        ]
+    },
+    "139": {
+        "base_atk": 60,
+        "base_def": 125,
+        "base_experience": 173,
+        "base_hp": 70,
+        "base_special_atk": 115,
+        "base_special_def": 70,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fighting": 2,
+            "flying": 0.5,
+            "ghost": 0.25,
+            "grass": 4,
+            "ground": 2,
+            "ice": 0.5,
+            "normal": 0.5,
+            "poison": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Omastar",
+        "type": [
+            "water",
+            "rock"
+        ]
+    },
+    "140": {
+        "base_atk": 80,
+        "base_def": 90,
+        "base_experience": 71,
+        "base_hp": 30,
+        "base_special_atk": 55,
+        "base_special_def": 45,
+        "base_speed": 55,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fighting": 2,
+            "fire": 0.25,
+            "flying": 0.5,
+            "grass": 4,
+            "ground": 2,
+            "ice": 0.5,
+            "normal": 0.5,
+            "poison": 0.5
+        },
+        "evolve_id": 141,
+        "evolve_level": 40,
+        "name": "Kabuto",
+        "type": [
+            "water",
+            "rock"
+        ]
+    },
+    "141": {
+        "base_atk": 115,
+        "base_def": 105,
+        "base_experience": 173,
+        "base_hp": 60,
+        "base_special_atk": 65,
+        "base_special_def": 70,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "electric": 2,
+            "fighting": 2,
+            "fire": 0.25,
+            "flying": 0.5,
+            "grass": 4,
+            "ground": 2,
+            "ice": 0.5,
+            "normal": 0.5,
+            "poison": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Kabutops",
+        "type": [
+            "water",
+            "rock"
+        ]
+    },
+    "142": {
+        "base_atk": 105,
+        "base_def": 65,
+        "base_experience": 180,
+        "base_hp": 80,
+        "base_special_atk": 60,
+        "base_special_def": 75,
+        "base_speed": 130,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fire": 0.5,
+            "fying": 0.25,
+            "ground": 4,
+            "ice": 2,
+            "normal": 0.5,
+            "poison": 0.5,
+            "rock": 2,
+            "steel": 2,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Kabutops",
+        "type": [
+            "flying",
+            "rock"
+        ]
+    },
+    "143": {
+        "base_atk": 110,
+        "base_def": 65,
+        "base_experience": 189,
+        "base_hp": 160,
+        "base_special_atk": 65,
+        "base_special_def": 110,
+        "base_speed": 30,
+        "dmg_when_atked": {
+            "fighting": 2,
+            "ghost": 0
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Snorlax",
+        "type": [
+            "normal"
+        ]
+    },
+    "144": {
+        "base_atk": 85,
+        "base_def": 100,
+        "base_experience": 261,
+        "base_hp": 90,
+        "base_special_atk": 95,
+        "base_special_def": 125,
+        "base_speed": 85,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fire": 2,
+            "grass": 0.5,
+            "ground": 0,
+            "rock": 4,
+            "steel": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Articuno",
+        "type": [
+            "ice",
+            "flying"
+        ]
+    },
+    "145": {
+        "base_atk": 90,
+        "base_def": 85,
+        "base_experience": 261,
+        "base_hp": 90,
+        "base_special_atk": 125,
+        "base_special_def": 90,
+        "base_speed": 100,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "fighting": 0.5,
+            "flying": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "ice": 2,
+            "rock": 4,
+            "steel": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Zapdos",
+        "type": [
+            "electric",
+            "flying"
+        ]
+    },
+    "146": {
+        "base_atk": 100,
+        "base_def": 90,
+        "base_experience": 261,
+        "base_hp": 90,
+        "base_special_atk": 125,
+        "base_special_def": 85,
+        "base_speed": 90,
+        "dmg_when_atked": {
+            "bug": 0.5,
+            "electric": 2,
+            "fairy": 0.5,
+            "fighting": 0.5,
+            "fire": 0.5,
+            "grass": 0.5,
+            "ground": 2,
+            "rock": 4,
+            "steel": 0.5,
+            "water": 2
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Moltres",
+        "type": [
+            "electric",
+            "flying"
+        ]
+    },
+    "147": {
+        "base_atk": 64,
+        "base_def": 45,
+        "base_experience": 60,
+        "base_hp": 41,
+        "base_special_atk": 50,
+        "base_special_def": 50,
+        "base_speed": 50,
+        "dmg_when_atked": {
+            "dragon": 2,
+            "electric": 0.5,
+            "fairy": 2,
+            "fire": 0.5,
+            "grass": 0.5,
+            "ice": 2,
+            "water": 0.5
+        },
+        "evolve_id": 148,
+        "evolve_level": 30,
+        "name": "Dratini",
+        "type": [
+            "dragon"
+        ]
+    },
+    "148": {
+        "base_atk": 134,
+        "base_def": 95,
+        "base_experience": 270,
+        "base_hp": 91,
+        "base_special_atk": 100,
+        "base_special_def": 100,
+        "base_speed": 80,
+        "dmg_when_atked": {
+            "dragon": 2,
+            "fairy": 2,
+            "fire": 0.5,
+            "grass": 0.5,
+            "ground": 0.5,
+            "ice": 4,
+            "rock": 2,
+            "water": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Dragonair",
+        "type": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "149": {
+        "base_atk": 84,
+        "base_def": 65,
+        "base_experience": 270,
+        "base_hp": 61,
+        "base_special_atk": 70,
+        "base_special_def": 70,
+        "base_speed": 70,
+        "dmg_when_atked": {
+            "dragon": 2,
+            "electric": 0.5,
+            "fairy": 2,
+            "fire": 0.5,
+            "grass": 0.5,
+            "ice": 2,
+            "water": 0.5
+        },
+        "evolve_id": 148,
+        "evolve_level": 55,
+        "name": "Dragonair",
+        "type": [
+            "dragon"
+        ]
+    },
+    "150": {
+        "base_atk": 110,
+        "base_def": 90,
+        "base_experience": 306,
+        "base_hp": 106,
+        "base_special_atk": 154,
+        "base_special_def": 90,
+        "base_speed": 130,
+        "dmg_when_atked": {
+            "bug": 2,
+            "dragon": 2,
+            "fighting": 0.5,
+            "ghost": 2,
+            "psychic": 0.5
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Mewtwo",
+        "type": [
+            "psychic"
+        ]
+    },
+    "169":{
+        "base_atk":90,
+        "base_def":80,
+        "base_experience":"241",
+        "base_hp": 85,
+        "base_special_atk":70,
+        "base_special_def":80,
+        "base_speed":130,
+        "dmg_when_atked":{
+            "bug":0.25,
+            "fighting":0.25,
+            "psychic": 2,
+            "ice":2,
+            "electric":2,
+            "rock":2,
+            "ground":2,
+            "fairy":0.5,
+            "poison":0.5,
+            "grass":0.25
+        },
+        "evolve_id": 0,
+        "evolve_level": 0,
+        "name": "Crobat",
+        "type":[
+            "poison",
+            "flying"
+        ]
+    }
+}
