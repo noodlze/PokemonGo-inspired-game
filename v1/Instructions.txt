@@ -1,5 +1,8 @@
 Note: if there are error messages in relation to missing python modules, please install them
-
+You will probably need to install the following:
+To install Twisted use the linux command: pip install Twisted
+To install simplejson(used in the authServer): sudo apt-get update
+                                               sudo apt-get install python-simplejson
 While in the project folder, open up a terminal and type the following to run the authentication server and battle server: 
 ./server 
 
